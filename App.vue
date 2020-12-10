@@ -14,4 +14,7 @@
 
 <style>
 	/*每个页面公共css */
+	@import '@/uni.scss';
+	@import '@/common/uni.css';
+	/* @import '@/common/uni-nvue.css'; */
 </style>
